@@ -14,8 +14,8 @@
  * limitations under the License.
  */
 
-html, body {
-  font-family: 'Roboto', 'Helvetica', sans-serif;
+html, body, h3, h4 {
+  font-family: 'Ubuntu-Light', 'Hiragino Sans W1', sans-serif;
 }
 .demo-avatar {
   width: 48px;
