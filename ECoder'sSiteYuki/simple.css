@@ -93,10 +93,7 @@ body{
   font-family:'Open Sans';
   z-index: 0;
   color: #333;
-  background: url("ECoder'sロゴ1.png") center center / cover no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-color: #fff;
+  background-color: #fcfcfc;
 }
 footer{
   background-color: #3799b2;
@@ -120,6 +117,9 @@ a{
   border-bottom: dotted 2px #3799b2;
   color: #3799b2;
 }
+p{
+  margin-bottom: 40px;
+}
 /*ボタン*/
 .btn{
   background-color: #3799b2;
@@ -128,6 +128,7 @@ a{
   transition: all .2s;
   border-radius:12px;
   font-weight: 600;
+  margin: 60px;
 }
 .btn:hover{
     opacity: 0.7;
